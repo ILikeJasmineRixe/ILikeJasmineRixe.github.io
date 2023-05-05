@@ -1,0 +1,20 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+nav a {
+  margin: 15px;
+  bottom: 50%;
+}
+
+nav {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  display: inline-flex;
+  background-color: lightgray;
+  height: 35px;
+  width: 90%;
+}
